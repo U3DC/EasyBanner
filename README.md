@@ -6,6 +6,8 @@ EasyBanner Pro for Unity3d
 
 # EasyBanner Pro V1.0
 
+![](https://forum.unity.com/attachments/nextpage-gif.316552/?temp_hash=713137806084dfc1cb6daf35613799e3)
+
 ## Introduce
 
 - **En**

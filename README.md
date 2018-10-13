@@ -5,7 +5,6 @@ EasyBanner Pro for Unity3d
 * website: http://www.u3dc.com/easybanner
 
 # EasyBanner Pro V1.0
-[TOC]
 
 ## Introduce
 

@@ -1,7 +1,7 @@
 # EasyBanner
 EasyBanner Pro for Unity3d
 
-* AssetStore: http://u3d.as/CM
+* AssetStore: https://assetstore.unity.com/packages/tools/gui/easybanner-pro-74925
 * Forum: https://forum.unity.com/threads/easybanner-pro-for-unity3d.568633/
 * Website: http://www.u3dc.com/easybanner
 

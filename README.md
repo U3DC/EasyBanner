@@ -4,6 +4,7 @@ EasyBanner Pro for Unity3d
 * AssetStore: https://assetstore.unity.com/packages/tools/gui/easybanner-pro-74925
 * Forum: https://forum.unity.com/threads/easybanner-pro-for-unity3d.568633/
 * Website: http://www.u3dc.com/easybanner
+* Youtube : https://www.youtube.com/watch?v=HYu-kZeSxa4
 
 # EasyBanner Pro V1.0
 

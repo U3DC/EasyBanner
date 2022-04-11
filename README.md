@@ -71,13 +71,11 @@ BannerManager.cs
 
 3. Create new Text Under the BannerItem.
 
-4. Create new Text Under the BannerItem.
+4. Create new empty gameobject under the BannerRoot ,you can rename it "BannerView",and add the stript "BannerView.cs".
 
-5. Create new empty gameobject under the BannerRoot ,you can rename it "BannerView",and add the stript "BannerView.cs".
+5. Add new script call "Test.cs",attach to the BannerRoot.
 
-6. Add new script call "Test.cs",attach to the BannerRoot.
-
-7. Edite the code in the Test.cs :
+6. Edite the code in the Test.cs :
 
    ```C#
    public class Test : MonoBehaviour
@@ -98,8 +96,8 @@ BannerManager.cs
    }
    ```
 
-8. add the sprite list data to the Test.cs.
+7. add the sprite list data to the Test.cs.
 
-9. run it.
+8. run it.
 
 	![](https://i.imgur.com/0IbfRzL.png)
